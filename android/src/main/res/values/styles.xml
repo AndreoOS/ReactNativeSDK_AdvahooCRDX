@@ -29,7 +29,7 @@
     <color name="idenfySecondColor20percentV2">#33353B4E</color>
     <color name="idenfySecondColor50percentV2">#80353B4E</color>
     <color name="idenfySecondColor80percentV2">#CC353B4E</color>
-    <color name="idenfyInactiveColorV2">#EFF1F8</color>
+    <color name="idenfyInactiveColorV2">#E9E6ED</color>
     <color name="idenfyStepSuccessColorV2">@color/idenfyMainDarkerColorV2</color>
     <color name="idenfyStepErrorColorV2">#D32F2F</color>
     <color name="idenfyGradientAccentV2">#9C4FFF</color>
@@ -39,7 +39,7 @@
     <color name="idenfyTransparentCameraOverlayV2">#4D000000</color>
     <color name="idenfyDrawerCurrentInstructionIndicatorColorV2">@color/idenfyMainColorV2</color>
     <color name="idenfyDrawerInstructionControlsTintColorV2">#FFFFFF</color>
-    <color name="idenfyPhotoResultDetailsCardBackgroundColorV2">#D9DFFC</color>
+    <color name="idenfyPhotoResultDetailsCardBackgroundColorV2">#E1CAFF</color>
     <color name="idenfyRedColorV2">#F44336</color>
     <color name="idenfyErrorRedColorV2">#C1170B</color>
     <color name="idenfyErrorLightRedColorV2">#FFEBEE</color>

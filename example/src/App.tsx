@@ -216,7 +216,7 @@ export default class App extends Component {
           <LinearGradient
             angle={90}
             useAngle={true}
-            colors={['#536DFE', '#8D6CFB']}
+            colors={['#9C4FFF', '#9C4FFF']}
             style={styles.gradient}
           >
             <Text style={styles.buttonTitle}>{this.state.buttonTitle}</Text>
@@ -229,7 +229,7 @@ export default class App extends Component {
           <LinearGradient
             angle={90}
             useAngle={true}
-            colors={['#536DFE', '#8D6CFB']}
+            colors={['#9C4FFF', '#9C4FFF']}
             style={styles.gradient}
           >
             <Text style={styles.buttonTitle}>

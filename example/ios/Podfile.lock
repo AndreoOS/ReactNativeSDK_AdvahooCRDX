@@ -20,9 +20,9 @@ PODS:
     - iDenfySDK-Static/iDenfyLiveness-Static (= 8.6.0)
     - React-Core
   - iDenfySDK-Static/iDenfyLiveness-Static (8.6.0):
-    - lottie-ios (= 4.4.3)
+    - lottie-ios (= 4.5.0)
   - libevent (2.1.12)
-  - lottie-ios (4.4.3)
+  - lottie-ios (4.5.0)
   - RCT-Folly (2022.05.16.00):
     - boost
     - DoubleConversion

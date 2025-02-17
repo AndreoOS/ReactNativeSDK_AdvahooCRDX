@@ -37,7 +37,7 @@ class IdenfyReactNative: NSObject {
             IdenfyCommonColors.idenfyGradientColor1V2 = UIColor(hexString: idenfyColorButton)
             IdenfyCommonColors.idenfyGradientColor2V2 = UIColor(hexString: idenfyColorButton)
 
-            IdenfyToolbarUISettingsV2.idenfyDefaultToolbarBackgroundColor = UIColor(hexString: idenfyColorMain)
+            // IdenfyToolbarUISettingsV2.idenfyDefaultToolbarBackgroundColor = UIColor(hexString: idenfyColorMain)
 
             IdenfyToolbarUISettingsV2.idenfyDefaultToolbarBackIconTintColor = IdenfyCommonColors.idenfyBlack
             IdenfyToolbarUISettingsV2.idenfyDefaultToolbarLogoIconTintColor = IdenfyCommonColors.idenfyBlack

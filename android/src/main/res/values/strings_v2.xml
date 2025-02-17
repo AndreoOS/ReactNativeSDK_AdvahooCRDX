@@ -1,5 +1,6 @@
 <resources>
     <string name="app_name">IdenfyReactNativeExample</string>
+    <string name="idenfy_additional_support_view_description">TEST TEST TEST</string>
     <string name="idenfy_identification_results_suspected_view_email_v2">support@credexbank.ro</string>
     <string name="idenfy_manual_reviewing_status_failed_view_information_support_email_v2">support@credexbank.ro</string>
     <string name="idenfy_additional_support_view_email">support@credexbank.ro</string>
